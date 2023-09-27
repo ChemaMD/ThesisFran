@@ -31,6 +31,6 @@ Depending on whether you would like to cite the thesis as a whole or only some p
 - Lab website: [martinduranlab.com](https://www.martinduranlab.com)
 
 ## How to download data files
-The files inside this repository are all compressed `.tar.gz` files stored in [GitHub Large File Storage (LFS)](https://git-lfs.github.com/) which will need to be decompressed. To view them, select the `.tar.gz` file you are interested in (e.g. [05-Evolutionary_analysis_H2AX_variants.tar.gz](05-Evolutionary_analysis_H2AX_variants.tar.gz)), click on *Download* and the file will be downloaded to your device.
+The files inside this repository are `.xlsx`, `.pdf`, `.png` or `.fasta` files stored in [GitHub Large File Storage (LFS)](https://git-lfs.github.com/). To view them, select the file you are interested in (e.g. [Martín-Zamora_FM_2023_Brief_Funct_Genom.pdf](Martín-Zamora_FM_2023_Brief_Funct_Genom.pdf)), click on *Download* and the file will be downloaded to your device.
 
 > :warning: **Some files are very heavy and download might take time to begin:** :warning: Be patient, they are correctly stored in [GitHub Large File Storage (LFS)](https://git-lfs.github.com/) and your download will eventually start.
