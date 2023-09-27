@@ -7,7 +7,7 @@ Depending on whether you would like to cite the thesis as a whole or only some p
 
 - To cite the thesis as a whole OR to cite contents from Chapter 4:
 > **Epigenetic regulation of annelid development and life cycle evolution.**
-> Francisco M. Martín-Zamora. October 2023. Queen Mary University of London.
+> Francisco Manuel Martín Zamora. October 2023. Queen Mary University of London (London, United Kingdom).
 
 - To cite contents from Chapter 1:
 > **Functional genomics in Spiralia.**
