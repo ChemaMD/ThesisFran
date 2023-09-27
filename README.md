@@ -2,8 +2,8 @@
 This GitHub repository contains the supplementary data and the custom code used in the thesis described below.
 
 ## How to use and cite these files
-All files are made publicly available and can be used for further research and other applications. However, if you use these resources in your work, we kindly ask you to cite our original publication.
-Depending on whether you would like to cite the thesis as a whole or only some part of it, we respectfully request you cite different publications.
+All files are made publicly available and can be used for further research and other applications. However, if you use these resources in your work, I kindly ask you to cite our original publication.
+Depending on whether you would like to cite the thesis as a whole or only some part of it, I respectfully request you cite the appropriate publication or piece of work.
 
 - To cite the thesis as a whole OR to cite contents from Chapter 4:
 > **Epigenetic regulation of annelid development and life cycle evolution.**
@@ -20,9 +20,8 @@ Depending on whether you would like to cite the thesis as a whole or only some p
 > *Nature* **615**, 105–110 (2023). https://doi.org/10.1038/s41586-022-05636-7
 
 - To cite contents from Chapter 3:
-   Annelid functional genomics reveal the origins of bilaterian life cycles
 > **Histone-based regulation of annelid development and life cycle heterochronies.**
-> Francisco M. Martín-Zamora§, Joby Cole, Nancy Ellis, Rory D. Donnellan, Kero Guynes, Allan M. Carrillo-Baltodano, Mark Dickman, Paul J. Hurd, José M. Martín-Durán.
+> Francisco M. Martín-Zamora, Joby Cole, Nancy Ellis, Rory D. Donnellan, Kero Guynes, Allan M. Carrillo-Baltodano, Mark Dickman, Paul J. Hurd, José M. Martín-Durán.
 > Manuscript in preparation.
 
 ## Author contact
