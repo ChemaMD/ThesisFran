@@ -26,8 +26,9 @@ Depending on whether you would like to cite the thesis as a whole or only some p
 > Manuscript in preparation.
 
 ## Author contact
-- [José M. Martín-Durán](mailto:chema.martin@qmul.ac.uk) (senior author, corresponding author)
-- [Francisco M. Martín-Zamora](mailto:f.m.martinzamora@qmul.ac.uk) (first author, corresponding author)
+- [Francisco M. Martín-Zamora](mailto:f.m.martinzamora@qmul.ac.uk) (PhD Candidate)
+- [José M. Martín-Durán](mailto:chema.martin@qmul.ac.uk) (Senior Lecturer and primary supervisor)
+- [Paul J. Hurd](mailto:p.j.hurd@qmul.ac.uk) (Reader and secondary supervisor)
 - Lab website: [martinduranlab.com](https://www.martinduranlab.com)
 
 ## How to download data files
