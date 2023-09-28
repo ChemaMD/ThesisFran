@@ -38,9 +38,15 @@ The files inside this repository are `.xlsx`, `.pdf`, `.png` or `.fasta` files s
 ## Index of data files contents
 - [Chapter2_Supplementary_Tables.xlsx](Chapter2_Supplementary_Tables.xlsx) contains Chapter 2 Supplementary Tables, that is, Supplementary Tables 2.1 to 2.94.
 - [Chapter3_Supplementary_Tables.xlsx](Chapter3_Supplementary_Tables.xlsx) contains Chapter 3 Supplementary Tables, that is, Supplementary Tables 3.1 to 3.91.
-- [Martin-Zamora_FM_2023_Brief_Funct_Genom.tar.gz](Martin-Zamora_FM_2023_Brief_Funct_Genom.tar.gz) contains the following paper:
+- [Martin-Zamora_FM_2023_Brief_Funct_Genom.tar.gz](Martin-Zamora_FM_2023_Brief_Funct_Genom.tar.gz) contains all the materials related to the following paper:
 > **Functional genomics in Spiralia.**
 > Francisco M. Martín-Zamora, Billie E Davies, Rory D Donnellan, Kero Guynes, José M Martín-Durán.
-> *Briefings in Functional Genomics* **22**, elad036 (2023). https://doi.org/10.1038/s41586-022-05636-7
-  - **Martin-Zamora_FM_2023_Brief_Funct_Genom.pdf** is the manuscript file.
-- [Martin-Zamora_FM_2023_Brief_Funct_Genom.tar.gz](Martin-Zamora_FM_2023_Brief_Funct_Genom.tar.gz) contains the following paper:
+> *Briefings in Functional Genomics* **22**, elad036 (2023). [https://doi.org/10.1093/bfgp/elad036](https://doi.org/10.1093/bfgp/elad036)
+- [Martin-Zamora_FM_2023_Nature.tar.gz](Martin-Zamora_FM_2023_Nature.tar.gz) contains all the materials related to the following paper:
+> **Annelid functional genomics reveal the origins of bilaterian life cycles.**
+> Francisco M. Martín-Zamora, Yan Liang, Kero Guynes, Allan M. Carrillo-Baltodano, Billie E. Davies, Rory D. Donellan, Yongkai Tan, Giacomo Moggioli, Océane Seudre, Martin Tran, Kate Mortimer, Nicholas M. Luscombe, Andreas Hejnol, Ferdinand Marlétaz, José M. Martín-Duran.
+> *Nature* **615**, 105–110 (2023). [https://doi.org/10.1038/s41586-022-05636-7](https://doi.org/10.1038/s41586-022-05636-7)
+- [Moggioli_G_2023_Nat_Commun.tar.gz](Moggioli_G_2023_Nat_Commun.tar.gz) contains all the materials related to the following paper:
+> **Distinct genomic routes underlie transitions to specialised symbiotic lifestyles in deep-sea annelid worms.**
+> Giacomo Moggioli, Balig Panossian, Yanan Sun, Daniel Thiel, Francisco M. Martín-Zamora, Martin Tran, Alexander M. Clifford, Shana K. Goffredi, Nadezhda Rimskaya-Korsakova, Gáspár Jékely, Martin Tresguerres, Pei-Yuan Qian, Jian-Wen Qiu, Greg W. Rouse, Lee M. Henry, José M. Martín-Durán.
+> *Nature Communications* **14**, 2814 (2023). [https://doi.org/10.1038/s41586-022-05636-7](https://doi.org/10.1038/s41467-023-38521-6)
