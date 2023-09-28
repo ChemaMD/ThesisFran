@@ -12,12 +12,12 @@ Depending on whether you would like to cite the thesis as a whole or only some p
 - To cite contents from Chapter 1:
 > **Functional genomics in Spiralia.**
 > Francisco M. Martín-Zamora, Billie E Davies, Rory D Donnellan, Kero Guynes, José M Martín-Durán.
-> *Briefings in Functional Genomics* **22**, elad036 (2023). https://doi.org/10.1038/s41586-022-05636-7
+> *Briefings in Functional Genomics* **22**, elad036 (2023). [https://doi.org/10.1093/bfgp/elad036](https://doi.org/10.1093/bfgp/elad036)
 
 - To cite contents from Chapter 2:
 > **Annelid functional genomics reveal the origins of bilaterian life cycles.**
 > Francisco M. Martín-Zamora, Yan Liang, Kero Guynes, Allan M. Carrillo-Baltodano, Billie E. Davies, Rory D. Donellan, Yongkai Tan, Giacomo Moggioli, Océane Seudre, Martin Tran, Kate Mortimer, Nicholas M. Luscombe, Andreas Hejnol, Ferdinand Marlétaz, José M. Martín-Duran.
-> *Nature* **615**, 105–110 (2023). https://doi.org/10.1038/s41586-022-05636-7
+> *Nature* **615**, 105–110 (2023). [https://doi.org/10.1038/s41586-022-05636-7](https://doi.org/10.1038/s41586-022-05636-7)
 
 - To cite contents from Chapter 3:
 > **Histone-based regulation of annelid development and life cycle heterochronies.**
@@ -49,4 +49,8 @@ The files inside this repository are `.xlsx`, `.pdf`, `.png` or `.fasta` files s
 - [Moggioli_G_2023_Nat_Commun.tar.gz](Moggioli_G_2023_Nat_Commun.tar.gz) contains all the materials related to the following paper:
 > **Distinct genomic routes underlie transitions to specialised symbiotic lifestyles in deep-sea annelid worms.**
 > Giacomo Moggioli, Balig Panossian, Yanan Sun, Daniel Thiel, Francisco M. Martín-Zamora, Martin Tran, Alexander M. Clifford, Shana K. Goffredi, Nadezhda Rimskaya-Korsakova, Gáspár Jékely, Martin Tresguerres, Pei-Yuan Qian, Jian-Wen Qiu, Greg W. Rouse, Lee M. Henry, José M. Martín-Durán.
-> *Nature Communications* **14**, 2814 (2023). [https://doi.org/10.1038/s41586-022-05636-7](https://doi.org/10.1038/s41467-023-38521-6)
+> *Nature Communications* **14**, 2814 (2023). [https://doi.org/10.1038/s41467-023-38521-6](https://doi.org/10.1038/s41467-023-38521-6)
+- [Seudre_O_2022_GBE.tar.gz](Seudre_O_2022_GBE.tar.gz) contains all the materials related to the following paper:
+> **The *Fox* Gene Repertoire in the Annelid *Owenia fusiformis|* Reveals Multiple Expansions of the *foxQ2* Class in Spiralia**
+> Océane Seudre, Francisco M. Martín-Zamora, Valentina Rapisarda, Imran Luqman, Allan M. Carrillo-Baltodano, José M. Martín-Durán.
+> *Genome Biology and Evolution* **14**, evac139 (2022). [https://doi.org/10.1093/gbe/evac139](https://doi.org/10.1093/gbe/evac139)
