@@ -31,7 +31,7 @@ Depending on whether you would like to cite the thesis as a whole or only some p
 - Lab website: [martinduranlab.com](https://www.martinduranlab.com)
 
 ## How to download data files
-The files inside this repository are `.xlsx`, `.pdf`, `.png` or `.fasta` files stored in [GitHub Large File Storage (LFS)](https://git-lfs.github.com/). To view them, select the file you are interested in (e.g. [Martín-Chapter2_Supplementary_Tables.xlsx](Chapter2_Supplementary_Tables.xlsx)), click on *Download* and the file will be downloaded to your device.
+The files inside this repository are `.tar.gz` or `.xlsx` files stored in [GitHub Large File Storage (LFS)](https://git-lfs.github.com/). To view them, select the file you are interested in (e.g. [Chapter2_Supplementary_Tables.xlsx](Chapter2_Supplementary_Tables.xlsx)), click on *Download* and the file will be downloaded to your device.
 
 > :warning: **Some files are very heavy and download might take time to begin:** :warning: Be patient, they are correctly stored in [GitHub Large File Storage (LFS)](https://git-lfs.github.com/) and your download will eventually start.
 
