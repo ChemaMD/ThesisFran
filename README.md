@@ -34,3 +34,14 @@ Depending on whether you would like to cite the thesis as a whole or only some p
 The files inside this repository are `.xlsx`, `.pdf`, `.png` or `.fasta` files stored in [GitHub Large File Storage (LFS)](https://git-lfs.github.com/). To view them, select the file you are interested in (e.g. [Martín-Zamora_FM_2023_Brief_Funct_Genom.pdf](Martín-Zamora_FM_2023_Brief_Funct_Genom.pdf)), click on *Download* and the file will be downloaded to your device.
 
 > :warning: **Some files are very heavy and download might take time to begin:** :warning: Be patient, they are correctly stored in [GitHub Large File Storage (LFS)](https://git-lfs.github.com/) and your download will eventually start.
+
+## Index of data files contents
+- [Chapter2_Supplementary_Tables.xlsx](Chapter2_Supplementary_Tables.xlsx) contains the Supplementary Tables corresponding to Chapter 2, that is, Supplementary Tables 2.1 to 2.94.
+- [Chapter3_Supplementary_Tables.xlsx](Chapter3_Supplementary_Tables.xlsx) contains the Supplementary Tables corresponding to Chapter 3, that is, Supplementary Tables 3.1 to 3.91.
+- [02-Genome_annotations.tar.gz](02-Genome_annotations.tar.gz) contains the genome annotation files with all gene models in `.gff3` format and the funcional annotation reports in `.xlsx` format for both *O. fusiformis* and *C. teleta*. Again, as described above for [01-Owenia_fusiformis_genome_assemblies.tar.gz](01-Owenia_fusiformis_genome_assemblies.tar.gz), there are two different annotation files for *O. fusiformis*, which match each of the genome asembly files.
+  - **Capitella_teleta_genome_annotation.gff3** contains the new updated gene models of *C. teleta*.
+  - **Capitella_teleta_functional_annotation.xlsx** is the functional annotation report of *C. teleta*.
+  - **Owenia_fusiformis_genome_annotation_scaffold_assembly.gff3** contains the gene models of *O. fusiformis* corresponding to **Scaffold_level_assembly_unmasked.fa**.
+  - **Owenia_fusiformis_genome_annotation_chromosome_assembly.gff3** contains the gene models of *O. fusiformis* corresponding to **Chromosome_level_assembly_unmasked.fa**.
+  - **Owenia_fusiformis_functional_annotation_scaffold_assembly.xlsx** is the functional annotation report of *O. fusiformis* corresponding to **Owenia_fusiformis_genome_annotation_scaffold_assembly.gff3**.
+  - **Owenia_fusiformis_functional_annotation_chromosome_assembly.xlsx** is the functional annotation report of *O. fusiformis* corresponding to **Owenia_fusiformis_genome_annotation_chromosome_assembly.gff3**.
